@@ -17,6 +17,6 @@ RUN dotnet publish "FarkServerWorker.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "FarkServerWorker.dll"]
 
 EXPOSE 5000
+ENTRYPOINT ["dotnet", "FarkServerWorker.dll"]

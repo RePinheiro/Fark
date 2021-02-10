@@ -7,7 +7,7 @@ namespace FarkCliente
     class Program
     {
         const string IP = "127.0.0.1";
-        const int PORT = 3040;
+        const int PORT = 5000;
 
         static void Main(string[] args)
         {
@@ -25,7 +25,7 @@ namespace FarkCliente
 
         static string SendData(string Mensagem)
         {
-            //t
+            
             using var ClienteTCP = new TcpClient(IP, PORT);
             using var Stream = ClienteTCP.GetStream();
 

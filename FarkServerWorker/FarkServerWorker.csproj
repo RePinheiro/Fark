@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>dotnet-FarkServerWorker-FB1AB114-8679-48FC-826C-BF42B6F51505</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <DockerfileRunArguments>-p 3040:5000</DockerfileRunArguments>
+    <DockerfileRunArguments>-p 5000:5000</DockerfileRunArguments>
   </PropertyGroup>
 
   <ItemGroup>
