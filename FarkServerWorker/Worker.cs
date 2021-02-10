@@ -31,7 +31,8 @@ namespace FarkServerWorker
                 _logger.LogInformation("IP: {0}", IP);
                 _logger.LogInformation("PORTA: {0}", PORT);
 
-                var ServerTCP = new TcpListener(IPAddress.Parse(IP), PORT);
+                //var ServerTCP = new TcpListener(IPAddress.Parse(IP), PORT);
+                var ServerTCP = new TcpListener(IPAddress.Any, PORT);
 
                 _logger.LogInformation("\n\nIniciando servidor...");
                 ServerTCP.Start();

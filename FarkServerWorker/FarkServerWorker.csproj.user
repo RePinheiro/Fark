@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <_LastSelectedProfileId>C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerWorker\Properties\PublishProfiles\FarkServerWorker.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
 </Project>
