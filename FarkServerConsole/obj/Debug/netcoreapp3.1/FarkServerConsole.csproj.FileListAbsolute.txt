@@ -1,0 +1,13 @@
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.exe
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.deps.json
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.runtimeconfig.json
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.runtimeconfig.dev.json
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.dll
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Debug\netcoreapp3.1\FarkServerConsole.pdb
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.csprojAssemblyReference.cache
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.AssemblyInfoInputs.cache
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.AssemblyInfo.cs
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.dll
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.pdb
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\obj\Debug\netcoreapp3.1\FarkServerConsole.genruntimeconfig.cache

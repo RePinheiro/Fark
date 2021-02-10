@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FarkServerWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "httpPort": 5000
+    }
+  }
+}

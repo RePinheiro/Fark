@@ -1,0 +1,9 @@
+services:
+  farkserverworker:
+    build:
+      context: C:\Users\renan.medeiros\source\repos\FarkWebServerTeste
+      dockerfile: FarkServerWorker/Dockerfile
+    image: farkserverworker
+    volumes:
+    - C:\Users\renan.medeiros\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

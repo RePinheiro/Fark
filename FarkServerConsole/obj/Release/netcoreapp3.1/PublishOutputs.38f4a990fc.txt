@@ -1,0 +1,5 @@
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Release\netcoreapp3.1\publish\FarkServerConsole.exe
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Release\netcoreapp3.1\publish\FarkServerConsole.dll
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Release\netcoreapp3.1\publish\FarkServerConsole.deps.json
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Release\netcoreapp3.1\publish\FarkServerConsole.runtimeconfig.json
+C:\Users\renan.medeiros\source\repos\FarkWebServerTeste\FarkServerConsole\bin\Release\netcoreapp3.1\publish\FarkServerConsole.pdb
