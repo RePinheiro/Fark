@@ -25,6 +25,7 @@ namespace FarkCliente
 
         static string SendData(string Mensagem)
         {
+            //t
             using var ClienteTCP = new TcpClient(IP, PORT);
             using var Stream = ClienteTCP.GetStream();
 
