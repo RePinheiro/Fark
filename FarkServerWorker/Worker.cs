@@ -14,7 +14,7 @@ namespace FarkServerWorker
     public class Worker : BackgroundService
     {
         const string IP = "127.0.0.1";
-        const int PORT = 5000;
+        const int PORT = 443;
 
         private readonly ILogger<Worker> _logger;
 
