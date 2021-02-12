@@ -6,9 +6,8 @@ namespace FarkCliente
 {
     class Program
     {
-        const string IP = "191.235.228.33";
-        const int PORT = 80;
-
+        const string IP = "127.0.0.1";
+        const int PORT = 443;
         static void Main(string[] args)
         {
             while (true)
